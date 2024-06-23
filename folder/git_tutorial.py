@@ -1,6 +1,6 @@
 def add_number(a,b,c,):
     ''' return the sum '''
-    return a+b+c
+    return sum([a,b,c])
 
 
 
