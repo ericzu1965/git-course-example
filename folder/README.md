@@ -7,3 +7,5 @@ We are learning how to make commits
 3. git commit -m "adding comments to ALL code being commited"
 
 goodbye
+
+docs
